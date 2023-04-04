@@ -1,8 +1,6 @@
 {
-  "devDependencies": {
-    "typescript": "^5.0.2"
-  },
   "dependencies": {
-    "js-to-ts-converter": "^0.18.2"
+    "js-to-ts-converter": "^0.18.2",
+    "ts-migrate": "^0.1.35"
   }
 }
